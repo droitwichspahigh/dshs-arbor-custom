@@ -1,0 +1,5 @@
+{
+    "require": {
+        "arbor-education/arbor-sdk-php": "^5.3"
+    }
+}

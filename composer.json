@@ -1,5 +1,6 @@
 {
     "require": {
-        "arbor-education/arbor-sdk-php": "^5.3"
+        "arbor-education/arbor-sdk-php": "^5.3",
+        "rabelos-coder/php-graphql-client": "^1.0"
     }
 }
